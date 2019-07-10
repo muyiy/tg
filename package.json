@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "seeleteamme.js": "^1.7.1"
+    "seeleteamme.js": "^1.7.2"
   }
 }
